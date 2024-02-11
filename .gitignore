@@ -1,2 +1,9 @@
 .idea
 *.iml
+node_modules
+.DS_Store
+/src/
+webpack.config.js
+package-lock.json
+package.json
+.babelrc
